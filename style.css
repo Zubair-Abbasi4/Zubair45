@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    border:7px solid blue;
+    overflow: hidden;
+}
+
+.a {
+    background-color: black;
+}
+
+#Mahnoor {
+    background-color: navy;
+    background-image: url(img7.jpg);
+}
